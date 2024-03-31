@@ -1,17 +1,9 @@
 body {
     background-color: rgb(36, 53, 63);
-    padding: 70px;
 }
-.title{
-    font-size: 40px;
-    color:#0dcaf0 ;
-    margin-bottom: 24px;
-}
-.group {
-    width: 75%;
-    box-shadow: rgb(0, 0, 0) -5px 2px 54px -9px;
-    padding: 50px;
 
+.group {
+    box-shadow: rgb(0, 0, 0) -5px 2px 54px -9px;
 }
 
 .form-control:focus {
@@ -19,13 +11,6 @@ body {
     background-color: rgb(255, 255, 255);
 }
 
-.btn{
-    margin-bottom:16px ;
-}
 .form-control {
     background-color: rgb(255, 255, 255);
-}
-
-a{
-    text-decoration: none;
 }
